@@ -1,0 +1,80 @@
+.hero-form img {
+    width: 500px;
+    height: 500px;
+}
+
+.top h3{
+    position: absolute;
+    width: 183px;
+    height: 36px;
+    left: 768px;
+    top: 136px;
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+/* identical to box height */
+
+
+/* Dark Blue */
+    color: #146dbd;
+}
+
+.left .input-group {
+    position: relative;
+    width: 576px;
+    height: 64px;
+    border: 2px solid #146dbd;
+    border-radius: 10px;
+    top: 80px;
+}
+
+.or {
+    left: 925px;
+    top: 550px;
+}
+
+.input-submit input[type="submit"]{
+        position: absolute;
+        width: 576px;
+        height: 55px;
+        left: 768px;
+        top: 280px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 20px;
+        border: none;
+        color: white;
+        margin-top: 50px;
+
+        /* Dark Blue */
+
+        background: #146DBD;
+        border-radius: 10px;
+}
+
+.input-submit input[type="submit"]:hover {
+    background: #1988E5;
+}
+
+.bottom {
+    margin-top: 200px;
+}
+
+.bottom img{
+    margin-top: 30px;
+    width: 576px;
+    height: 55px;
+}
+
+.line {
+    position: absolute;
+    width: 293px;
+    height: 30px;
+    left: 925px;
+    top: 344px;
+    margin-top: 65px;
+}
